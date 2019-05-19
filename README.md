@@ -9,13 +9,8 @@ Worked as a developer in a team to design and develop an android app called EduC
 
 
 ### App screenshots
-<img src="https://user-images.githubusercontent.com/32341039/57986973-3805cd00-7a99-11e9-8248-de4fed336574.jpg" width="200" height="300">
 
-<img src="https://user-images.githubusercontent.com/32341039/57986987-5e2b6d00-7a99-11e9-8cd2-06305332c56d.JPG" width="300" height="300">
-
-
-
-<img src="https://user-images.githubusercontent.com/32341039/57987002-831fe000-7a99-11e9-995e-feaaa115f4b8.JPG" width="300" height="300">
-
-
-<img src="https://user-images.githubusercontent.com/32341039/57987071-54eed000-7a9a-11e9-8b0d-104a880c219e.JPG" width="300" height="300">
+|               |               |
+| ------------- | ------------- |
+| <img src="https://user-images.githubusercontent.com/32341039/57986973-3805cd00-7a99-11e9-8248-de4fed336574.jpg" width="200" height="300">  | <img src="https://user-images.githubusercontent.com/32341039/57986987-5e2b6d00-7a99-11e9-8cd2-06305332c56d.JPG" width="200" height="300">  |
+| <img src="https://user-images.githubusercontent.com/32341039/57987002-831fe000-7a99-11e9-995e-feaaa115f4b8.JPG" width="200" height="300">  | <img src="https://user-images.githubusercontent.com/32341039/57987071-54eed000-7a9a-11e9-8b0d-104a880c219e.JPG" width="200" height="300">  |
